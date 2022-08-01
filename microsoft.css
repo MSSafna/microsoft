@@ -1,0 +1,143 @@
+.nav-link :hover{
+    border-bottom: 3px solid black;
+}
+.search:hover
+{
+    text-decoration: none;
+  
+} 
+.btn{
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+ 
+   
+    
+}
+.bg-yellow{
+    background-color: #ffb900!important;
+    color: #000;
+}
+.nav-toggler{
+    background-color: red;
+    border:none;
+    padding: 10px 6px;
+    outline:none;
+}
+.carousel-caption{
+    bottom: 150px;
+}
+.carousel-caption h5{
+    font-size: 50px;
+    
+    letter-spacing: 2px;
+    margin-top: 25px;
+    font-weight: 200;
+}
+carousel-caption p{
+    font-family: 18px;
+    margin: auto;
+    width: 60%;
+    line-height: 1.9 ;
+}
+.corousel-inner{
+    width: auto;
+    height: max-content;
+}
+/*.card{
+    margin-left: 10px;
+}
+.card-img-top{
+    height: 500;
+    width: 75%;
+   
+}
+.container .card-img-top{
+    padding-left: 0 !important;
+}*/
+
+.border{
+    width: max-content;
+}
+.card-img-overlay{
+    background-color: white;
+   height: auto;
+    width: max-content;
+    align-items: center;
+   
+}
+.card-img-overlay {
+    position: absolute !important;
+    top: 170px;
+    height: max-content;
+    
+    right: 0;
+    bottom: 0;
+    left: 50px;
+    /* padding: 1.25rem;
+    border-radius: calc(0.25rem - 1px); */
+}
+.card-title{
+    font-size:xx-large;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.card-text{
+    margin-left: 10px;
+}
+.card-img-overlay .btn{
+    margin-left: 10px;;
+}
+.container-fluid h5{
+    margin-left: 35px;
+    font-size: 45px;
+}
+ .body3{
+    background-color: black;
+    height: max-content;
+    
+ }
+  .img1{ 
+    margin: 20px;
+     background-color: #ffb900;
+    background-image: url('https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-MSFT-hero-Edge:VP5-1596x600');
+     width: 100%;
+     height: 500px;
+       
+   background-size: cover;
+   background-repeat: no-repeat; 
+   background-position: center;  
+   padding: 117px;
+    padding-left: 50px
+  }
+ .imagetext{
+    background-color:transparent;
+    width: max-content;
+    height: 200px;
+ }
+ .icons{
+    width: 40px;
+ }
+ .buttoncolor{
+    background-color: silver;
+     border: 0;
+     font-weight:500;
+     
+     
+ }
+ 
+ 
+ element.style {
+}
+.h4, h4 {
+    font-size: 1.5rem;
+    word-spacing: 6px
+} 
+.card-text {
+    margin-left: 0px !important;
+}
